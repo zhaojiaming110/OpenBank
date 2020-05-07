@@ -19,3 +19,15 @@
 - Mysql集群
 - Redis集群
 - 文件服务系统（规划中）
+- Elastic日志系统（规划中）
+
+### 技术栈
+
+- golang
+- go-micro
+- etcd
+- grpc
+- protobuf
+- mysql
+- Redis
+- Nsq
