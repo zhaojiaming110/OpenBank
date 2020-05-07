@@ -1,0 +1,25 @@
+// 半个月面试冲刺计划
+1.Redis 时长16小时  看+实践
+2.Mysql 时长16小时  看+实践
+3.Docker 时长10小时 只学Docker基础，不学编排工具
+4.计算机基础 时长17小时  看就完事了
+5.shell+Linux基础 时长15小时  看+基础实践
+6.Restful Api 时长3小时 慕课网Restful API实战    看就完事了
+7.大话HTTP协议  时长13小时      看就完事了
+8.Socket网络编程  时长10小时    看就完事了
+9.数据结构 30小时             1小时
+10.leetcode 100道精选面试题   50小时    6道题 3小时
+11.Golang基础 10小时        看就完事了
+12.设计模式    15小时
+大概学完时长15天
+项目实战 3天
+1.Go-micro 基础学习
+2.使用Go-micro搭建开放银行微服务系统架构
+3.ETCD、Raft协议学习
+4.gRPC学习
+5.使用gRPC作为微服务项目的配置中心
+6.FastDFS分布式文件平台
+
+早上 Redis+Docker+计算机基础+设计模式
+下午 数据结构+LeetCode
+晚上 Mysql+shell+HTTP+SOCKET

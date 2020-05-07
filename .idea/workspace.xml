@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43ea0925-bff5-42ec-91ee-694e39a9530d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="openBank" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ZFOoHn8432uqmFbSHSRj126T5D" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/account" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/zhaojiaming110/openBank/config-grpc-srv">
+    <configuration name="go build github.com/zhaojiaming110/openBank/account/account-srv" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="book-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/account/account-srv/main.go" />
+      <package value="github.com/zhaojiaming110/openBank/account/account-srv" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/zhaojiaming110/openBank/config-grpc-srv" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="book-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/config-grpc-srv/main.go" />
+      <package value="github.com/zhaojiaming110/openBank/config-grpc-srv" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/zhaojiaming110/openBank/gormtest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="book-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/gormtest/main.go" />
+      <package value="github.com/zhaojiaming110/openBank/gormtest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/zhaojiaming110/openBank/tcptest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="book-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/tcptest/main.go" />
+      <package value="github.com/zhaojiaming110/openBank/tcptest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/zhaojiaming110/openBank/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="book-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/test/test.go" />
+      <package value="github.com/zhaojiaming110/openBank/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/config-grpc-srv" />
+        <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/gormtest" />
+        <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/test" />
+        <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/tcptest" />
+        <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/account/account-srv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",Show Private Members" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io/</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="246" y="46" key="#Inspections" timestamp="1584441505915">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="246" y="46" key="#Inspections/53.23.1387.877@53.23.1387.877" timestamp="1584441505915" />
+    <state x="246" y="23" width="1000" height="877" key="#Intentions" timestamp="1584441886017">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="246" y="23" width="1000" height="877" key="#Intentions/53.23.1387.877@53.23.1387.877" timestamp="1584441886017" />
+    <state x="378" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584584385119">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="378" y="249" key="#com.intellij.fileTypes.FileTypeChooser/53.23.1387.877@53.23.1387.877" timestamp="1584584385119" />
+    <state x="459" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585109496108">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="459" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/53.23.1387.877@53.23.1387.877" timestamp="1585109496108" />
+    <state width="1387" height="194" key="GridCell.Tab.0.bottom" timestamp="1588875694067">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1387" height="217" key="GridCell.Tab.0.bottom/49.23.1391.877@49.23.1391.877" timestamp="1587264842555" />
+    <state width="1387" height="194" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1588875694067" />
+    <state width="1387" height="194" key="GridCell.Tab.0.center" timestamp="1588875694066">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1387" height="217" key="GridCell.Tab.0.center/49.23.1391.877@49.23.1391.877" timestamp="1587264842554" />
+    <state width="1387" height="194" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1588875694066" />
+    <state width="1387" height="194" key="GridCell.Tab.0.left" timestamp="1588875694066">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1387" height="217" key="GridCell.Tab.0.left/49.23.1391.877@49.23.1391.877" timestamp="1587264842554" />
+    <state width="1387" height="194" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1588875694066" />
+    <state width="1387" height="194" key="GridCell.Tab.0.right" timestamp="1588875694067">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="1387" height="217" key="GridCell.Tab.0.right/49.23.1391.877@49.23.1391.877" timestamp="1587264842555" />
+    <state width="1387" height="194" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1588875694067" />
+    <state x="53" y="23" width="1139" height="877" key="SettingsEditor" timestamp="1588272384829">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="53" y="23" width="1139" height="877" key="SettingsEditor/53.23.1387.877@53.23.1387.877" timestamp="1588272384829" />
+    <state x="684" y="96" width="756" height="665" key="StructurePopup" timestamp="1588775607431">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="684" y="96" width="756" height="665" key="StructurePopup/53.23.1387.877@53.23.1387.877" timestamp="1588775607431" />
+    <state x="364" y="23" width="960" height="877" key="find.popup" timestamp="1588749547221">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="364" y="23" width="960" height="877" key="find.popup/53.23.1387.877@53.23.1387.877" timestamp="1588749547221" />
+    <state width="750" height="540" key="javadoc.popup" timestamp="1584433772015">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state width="750" height="540" key="javadoc.popup/53.23.1387.877@53.23.1387.877" timestamp="1584433772015" />
+    <state x="327" y="23" width="838" height="877" key="search.everywhere.popup" timestamp="1588867484132">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="324" y="23" width="841" height="1032" key="search.everywhere.popup/49.23.1391.877@49.23.1391.877" timestamp="1587215390188" />
+    <state x="327" y="23" width="838" height="877" key="search.everywhere.popup/53.23.1387.877@53.23.1387.877" timestamp="1588867484132" />
+    <state x="438" y="362" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1588745944875">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="438" y="362" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/53.23.1387.877@53.23.1387.877" timestamp="1588745944875" />
+  </component>
+</project>
