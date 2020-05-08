@@ -9,7 +9,9 @@ import (
 	"net/http"
 	"time"
 
+	hystrix_go "github.com/afex/hystrix-go/hystrix"
 	"github.com/micro/go-micro/v2/client"
+	"github.com/micro/go-plugins/wrapper/breaker/hystrix/v2"
 	us "github.com/zhaojiaming110/openBank/account/account-srv/proto/account"
 )
 
@@ -24,7 +26,10 @@ type Error struct {
 }
 
 func Init() {
-	serviceClient = us.NewAccountService("open.bank.demo2", client.DefaultClient)
+	hystrix_go.DefaultVolumeThreshold = 1
+	hystrix_go.DefaultErrorPercentThreshold = 1
+	cl := hystrix.NewClientWrapper()(client.DefaultClient)
+	serviceClient = us.NewAccountService("open.bank.demo2", cl)
 }
 
 // Login 登录入口
@@ -59,14 +64,13 @@ func Login(w http.ResponseWriter, r *http.Request) {
 		content = append(content, tmp[:n]...)
 	}
 
-
 	fmt.Println(handler.Filename)
 
 	// 调用后台服务
 	log.Info("开始调用后台服务")
 	_, err = serviceClient.QueryUserByName(context.TODO(), &us.Request{
 		UserName: r.Form.Get("userName"),
-		Idfile:	content,
+		Idfile:   content,
 	})
 	if err != nil {
 		http.Error(w, err.Error(), 500)
