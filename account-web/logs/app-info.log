@@ -1,0 +1,72 @@
+{"level":"info","ts":1588924802.054091,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588924802.0545301,"caller":"account-web/main.go:87","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588925732.1433752,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588925732.14485,"caller":"account-web/main.go:87","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588926026.437425,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588926026.438825,"caller":"account-web/main.go:87","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588926229.706054,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588926229.708113,"caller":"account-web/main.go:87","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588926390.799215,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588926390.800521,"caller":"account-web/main.go:87","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588926841.271158,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588926841.2724469,"caller":"account-web/main.go:95","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588928029.9398751,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588928029.941052,"caller":"account-web/main.go:95","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588928463.607247,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588928463.6091158,"caller":"account-web/main.go:95","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588928570.789479,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588928570.789639,"caller":"account-web/main.go:95","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588928876.2350972,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588928876.235317,"caller":"account-web/main.go:96","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588935781.035058,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588935781.036135,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588935811.931542,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588935811.932704,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588935879.9705422,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588935879.972449,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588935936.6250932,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588935936.62711,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588936036.0585432,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588936036.0597918,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588939133.470371,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588939133.471541,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588939482.113899,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588939482.1140769,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588939832.1347032,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588939832.1361651,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1588940326.909442,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588940326.910624,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589013810.3432589,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589013810.344715,"caller":"account-web/main.go:108","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589013855.338135,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589013855.33984,"caller":"account-web/main.go:109","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589013889.590081,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589013889.5904,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589014043.671532,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014043.671817,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589014151.340509,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014151.342048,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589014212.548388,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014212.5496671,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589014257.7675588,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014257.767725,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589014971.0745192,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014971.0746949,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589015435.0214589,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589015435.021627,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589015563.623839,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589015563.624162,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589015678.0291169,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589015678.029289,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589015756.093565,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589015756.0938659,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589015838.295018,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589015838.295192,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589015950.212878,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589015950.213056,"caller":"account-web/main.go:106","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589016063.5226119,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589016063.522839,"caller":"account-web/main.go:104","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589016356.347678,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589016356.347863,"caller":"account-web/main.go:104","msg":"[initCfg]配置完成"}
+{"level":"info","ts":1589016650.3989959,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589016650.399172,"caller":"account-web/main.go:104","msg":"[initCfg]配置完成"}

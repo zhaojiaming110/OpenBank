@@ -31,3 +31,23 @@
 - mysql
 - Redis
 - Nsq
+
+### 目录结构
+
+- account-web  openbank微服务api入口
+- account-srv  openbank微服务
+- asynchronous-server 异步微服务 通过nsq消息队列实现
+- timing-server 定时任务微服务， 通过外界调用http
+- basic 基础配置
+- config-grpc-srv  grpc注册中心
+- micro micro api网关
+- plugins 插件
+
+### 已实现的功能
+
+- 同异步模式
+- 定时任务
+- 注册中心
+- 链路追踪
+- 日志持久化
+- 服务的熔断、降级

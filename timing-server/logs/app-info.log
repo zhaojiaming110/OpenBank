@@ -1,0 +1,138 @@
+{"level":"info","ts":1588948183.532484,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588948183.533712,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588948183.5357351,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588948435.1783628,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588948435.1797178,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588948435.179969,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588948435.184114,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588948435.187029,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588948776.8356621,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588948835.878727,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588948837.91213,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588948838.114892,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588948838.3120341,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588948838.5244238,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588948838.725091,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588948838.930986,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588948855.246497,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588948855.2467148,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588948855.246907,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588948855.254803,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588948855.255709,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588948884.483051,"caller":"timing/timing.go:26","msg":"hello, world"}
+{"level":"info","ts":1588949852.215519,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588949852.218645,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588949852.218807,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588949852.2211041,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588949852.2212071,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588950074.463351,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588950074.464594,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588950074.4651709,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588950074.4676049,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588950074.4676979,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588950078.805797,"caller":"timing/timing.go:57","msg":"file has read!"}
+{"level":"info","ts":1588950078.806068,"caller":"timing/timing.go:81","msg":"file has read"}
+{"level":"info","ts":1588951900.278363,"caller":"timing/timing.go:57","msg":"file has read!"}
+{"level":"info","ts":1588951900.279029,"caller":"timing/timing.go:81","msg":"file has read"}
+{"level":"info","ts":1588951903.116375,"caller":"timing/timing.go:57","msg":"file has read!"}
+{"level":"info","ts":1588951903.116523,"caller":"timing/timing.go:81","msg":"file has read"}
+{"level":"info","ts":1588951904.038858,"caller":"timing/timing.go:57","msg":"file has read!"}
+{"level":"info","ts":1588951904.0390348,"caller":"timing/timing.go:81","msg":"file has read"}
+{"level":"info","ts":1588951904.233126,"caller":"timing/timing.go:57","msg":"file has read!"}
+{"level":"info","ts":1588951904.2332292,"caller":"timing/timing.go:81","msg":"file has read"}
+{"level":"info","ts":1588951904.402446,"caller":"timing/timing.go:57","msg":"file has read!"}
+{"level":"info","ts":1588951904.402604,"caller":"timing/timing.go:81","msg":"file has read"}
+{"level":"info","ts":1588951904.577986,"caller":"timing/timing.go:57","msg":"file has read!"}
+{"level":"info","ts":1588951904.578197,"caller":"timing/timing.go:81","msg":"file has read"}
+{"level":"info","ts":1588951913.516313,"caller":"timing/timing.go:57","msg":"file has read!"}
+{"level":"info","ts":1588951913.5164502,"caller":"timing/timing.go:81","msg":"file has read"}
+{"level":"info","ts":1588951956.637723,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588951956.6391091,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588951956.639306,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588951956.640922,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588951956.641862,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588951963.802471,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588951963.802845,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952259.841374,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588952259.841547,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588952259.84171,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588952259.84374,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588952259.84465,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588952292.5331142,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952292.53344,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952292.670159,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952292.67028,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952519.362446,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588952519.362613,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588952519.3627899,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588952519.3641138,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588952519.3649971,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588952523.871399,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952523.871644,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952858.1506271,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952858.150926,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952859.276936,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952859.277057,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952859.522479,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952859.522599,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952859.75491,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952859.754986,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952859.956952,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952859.957062,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588952860.152496,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588952860.1525671,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953013.995533,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588953013.996777,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588953013.996893,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588953013.998438,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588953013.99939,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588953020.706242,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953020.706493,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953022.6584508,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953022.658575,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953113.8821619,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588953113.883393,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588953113.883508,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588953113.884514,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588953113.8854542,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588953119.5051782,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953119.505451,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953123.376092,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953123.3763351,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953124.227384,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953124.227573,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953124.7875578,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953124.78769,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953125.148107,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953125.148214,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953125.443149,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953125.443273,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953320.839103,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588953320.839273,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588953320.839912,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588953320.8421388,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588953320.8429718,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1588953324.6496892,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953324.6499898,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1588953328.557666,"caller":"timing/timing.go:58","msg":"file has read!"}
+{"level":"info","ts":1588953328.557763,"caller":"timing/timing.go:82","msg":"file has read"}
+{"level":"info","ts":1589011581.978902,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589011581.9803362,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589011581.9806,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589011581.987485,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589011581.988437,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1589012232.334145,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589012232.335681,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589012232.335926,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589012232.343215,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589012232.344563,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1589012339.530725,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589012339.530883,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589012339.531063,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589012339.5335848,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589012339.534344,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1589012499.654042,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589012499.654185,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589012499.6543622,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589012499.660249,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589012499.661452,"caller":"timing-server/main.go:84","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}

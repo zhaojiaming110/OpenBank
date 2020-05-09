@@ -1,0 +1,102 @@
+1.588923868082647e+09	info	zap/zap.go:48	[initLogger] zap plugin initializing completed
+1.5889238680855198e+09	info	db/mysql.go:25	[initMysql] 初始化Mysql
+1.5889238680856462e+09	info	db/mysql.go:31	mysql配置	{"mysqlConfig": {"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+1.588923868092619e+09	info	db/mysql.go:61	[initMysql] Mysql 连接成功
+1.588923868092782e+09	info	account-srv/main.go:106	[initCfg]配置	{"cfg": {"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+1.588923868093448e+09	info	account-srv/main.go:86	[nsqConfig]配置	{"nsqConfig": {"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1588923943.516654,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588923943.517739,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588923943.51793,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588923943.524435,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588923943.524631,"caller":"account-srv/main.go:106","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1588923943.525402,"caller":"account-srv/main.go:86","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1588924730.7943199,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588924730.796366,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588924730.796583,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588924730.8020968,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588924730.8022661,"caller":"account-srv/main.go:106","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1588924730.8031092,"caller":"account-srv/main.go:86","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1588948376.270258,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1588948376.276429,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1588948376.276567,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1588948376.3399942,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1588948376.340159,"caller":"account-srv/main.go:109","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1588948376.3408341,"caller":"account-srv/main.go:89","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589011299.326426,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589011299.329129,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589011299.329251,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589011299.3310158,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589011299.331146,"caller":"account-srv/main.go:109","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589011299.331687,"caller":"account-srv/main.go:89","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589011690.037932,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589011690.04022,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589011690.0403688,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589011690.0459719,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589011690.046242,"caller":"account-srv/main.go:109","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589011690.047261,"caller":"account-srv/main.go:89","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589012607.870807,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589012607.8732212,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589012607.8733718,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589012607.875921,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589012607.876075,"caller":"account-srv/main.go:109","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589012607.876791,"caller":"account-srv/main.go:89","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589012925.127437,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589012925.130209,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589012925.13034,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589012925.1317601,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589012925.1318872,"caller":"account-srv/main.go:109","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589012925.132471,"caller":"account-srv/main.go:89","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589013797.235538,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589013797.2379572,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589013797.2381718,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589013797.247373,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589013797.247564,"caller":"account-srv/main.go:109","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589013797.249758,"caller":"account-srv/main.go:89","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589014324.9252381,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014324.9277608,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589014324.9279182,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589014324.938528,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589014324.9387,"caller":"account-srv/main.go:109","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589014324.939328,"caller":"account-srv/main.go:89","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589014474.436067,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014474.4435341,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589014474.443729,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589014474.4453278,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589014474.4455109,"caller":"account-srv/main.go:109","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589014474.446261,"caller":"account-srv/main.go:89","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589014561.028909,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014561.0302799,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589014561.030431,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589014561.0350971,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589014561.0352771,"caller":"account-srv/main.go:107","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589014561.035862,"caller":"account-srv/main.go:87","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589014724.98084,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014724.98278,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589014724.9831948,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589014724.98448,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589014724.9846458,"caller":"account-srv/main.go:107","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589014724.9853382,"caller":"account-srv/main.go:87","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589014876.7725718,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014876.774664,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589014876.77483,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589014876.77586,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589014876.776026,"caller":"account-srv/main.go:107","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589014876.776698,"caller":"account-srv/main.go:87","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589014926.85226,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589014926.8542342,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589014926.8543859,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589014926.857099,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589014926.85726,"caller":"account-srv/main.go:107","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589014926.857929,"caller":"account-srv/main.go:87","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589015040.239724,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589015040.241524,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589015040.241695,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589015040.246332,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589015040.24653,"caller":"account-srv/main.go:107","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589015040.247197,"caller":"account-srv/main.go:87","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}
+{"level":"info","ts":1589015182.085342,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589015182.08669,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589015182.0868218,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589015182.089229,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589015182.089407,"caller":"account-srv/main.go:107","msg":"[initCfg]配置","cfg":{"name":"mu.micro.book.srv.auth","version":"","address":"127.0.0.1","port":9030}}
+{"level":"info","ts":1589015182.089992,"caller":"account-srv/main.go:87","msg":"[nsqConfig]配置","nsqConfig":{"enabled":true,"host":"127.0.0.1","port":4150}}

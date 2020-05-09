@@ -1,7 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43ea0925-bff5-42ec-91ee-694e39a9530d" name="Default Changelist" comment="" />
+    <list default="true" id="43ea0925-bff5-42ec-91ee-694e39a9530d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-srv/plugin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-web/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asynchronous-server/proto/asynchronous/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/common/nsq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/breaker/http/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/db/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/db/mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/redis/redis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timing-server/model/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timing-server/model/timing/timing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timing-server/proto/timing/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application-db.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application-etcd.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application-mq.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application-redis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/handler/account.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/handler/account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/model/account/account.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/model/account/account.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/model/account/account_get.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/model/account/account_get.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/model/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/model/model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/plugin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/proto/account/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/proto/account/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/proto/account/account.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/proto/account/account.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/proto/account/account.pb.micro.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/proto/account/account.pb.micro.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-srv/proto/account/account.proto" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/proto/account/account.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/basic/basic.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/basic/config/config.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/basic/config/etcd.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/basic/config/profiles.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/profiles.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/conf/application-etcd.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/handler/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/handler/handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/account-web/plugin.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/plugin.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/basic.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/basic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/config/etcd.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/etcd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/config/mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/mysql.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/config/nsq.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/nsq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/config/profiles.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/config/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/redis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/db/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/db/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/db/mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/db/mysql.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic-local/redis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/redis/redis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic/basic.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic/common/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/common/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic/common/const.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/common/const.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic/common/etcd.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/common/etcd.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/basic/config/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/config/options.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/config-grpc-srv/conf/micro.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-grpc-srv/conf/micro.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/config-grpc-srv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/config-grpc-srv/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/docs/user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/test/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/test/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/test/html/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/test/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nsqtest/nsq.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nsqtest/proto/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nsqtest/proto/nsq.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nsqtest/proto/nsq.pb.micro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nsqtest/proto/nsq.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-test/string.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcptest/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcptest/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcptest/tcptest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/trace.out" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +131,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
@@ -63,23 +147,15 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/account" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/zhaojiaming110/openBank/config-grpc-srv">
-    <configuration name="go build github.com/zhaojiaming110/openBank/account/account-srv" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="book-go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/account/account-srv/main.go" />
-      <package value="github.com/zhaojiaming110/openBank/account/account-srv" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Makefile.build (1)">
     <configuration name="go build github.com/zhaojiaming110/openBank/config-grpc-srv" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="book-go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -98,15 +174,6 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/zhaojiaming110/openBank/tcptest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="book-go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/tcptest/main.go" />
-      <package value="github.com/zhaojiaming110/openBank/tcptest" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build github.com/zhaojiaming110/openBank/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="book-go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -116,13 +183,25 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="build (1)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/account/account-srv/proto/account/Makefile" target="build" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/account/asynchronous-server/proto/asynchronous/Makefile" target="build" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Makefile.build (1)" />
+        <item itemvalue="Makefile.build" />
+        <item itemvalue="Makefile.build" />
         <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/config-grpc-srv" />
         <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/gormtest" />
-        <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/test" />
-        <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/tcptest" />
-        <item itemvalue="Go Build.go build github.com/zhaojiaming110/openBank/account/account-srv" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +211,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wrapper" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrapper" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -154,34 +237,46 @@
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state x="459" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/53.23.1387.877@53.23.1387.877" timestamp="1585109496108" />
-    <state width="1387" height="194" key="GridCell.Tab.0.bottom" timestamp="1588875694067">
+    <state x="234" y="23" key="CommitChangelistDialog2" timestamp="1588925582119">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="234" y="23" key="CommitChangelistDialog2/53.23.1387.877@53.23.1387.877" timestamp="1588925582118" />
+    <state x="153" y="123" width="1187" height="677" key="DiffContextDialog" timestamp="1588920714745">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="153" y="123" width="1187" height="677" key="DiffContextDialog/53.23.1387.877@53.23.1387.877" timestamp="1588920714745" />
+    <state width="1387" height="184" key="GridCell.Tab.0.bottom" timestamp="1589013827173">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1387" height="217" key="GridCell.Tab.0.bottom/49.23.1391.877@49.23.1391.877" timestamp="1587264842555" />
-    <state width="1387" height="194" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1588875694067" />
-    <state width="1387" height="194" key="GridCell.Tab.0.center" timestamp="1588875694066">
+    <state width="1387" height="184" key="GridCell.Tab.0.bottom/53.23.1387.877@53.23.1387.877" timestamp="1589013827173" />
+    <state width="1387" height="184" key="GridCell.Tab.0.center" timestamp="1589013827171">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1387" height="217" key="GridCell.Tab.0.center/49.23.1391.877@49.23.1391.877" timestamp="1587264842554" />
-    <state width="1387" height="194" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1588875694066" />
-    <state width="1387" height="194" key="GridCell.Tab.0.left" timestamp="1588875694066">
+    <state width="1387" height="184" key="GridCell.Tab.0.center/53.23.1387.877@53.23.1387.877" timestamp="1589013827171" />
+    <state width="1387" height="184" key="GridCell.Tab.0.left" timestamp="1589013827170">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1387" height="217" key="GridCell.Tab.0.left/49.23.1391.877@49.23.1391.877" timestamp="1587264842554" />
-    <state width="1387" height="194" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1588875694066" />
-    <state width="1387" height="194" key="GridCell.Tab.0.right" timestamp="1588875694067">
+    <state width="1387" height="184" key="GridCell.Tab.0.left/53.23.1387.877@53.23.1387.877" timestamp="1589013827170" />
+    <state width="1387" height="184" key="GridCell.Tab.0.right" timestamp="1589013827172">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="1387" height="217" key="GridCell.Tab.0.right/49.23.1391.877@49.23.1391.877" timestamp="1587264842555" />
-    <state width="1387" height="194" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1588875694067" />
-    <state x="53" y="23" width="1139" height="877" key="SettingsEditor" timestamp="1588272384829">
+    <state width="1387" height="184" key="GridCell.Tab.0.right/53.23.1387.877@53.23.1387.877" timestamp="1589013827172" />
+    <state x="53" y="23" width="1139" height="877" key="SettingsEditor" timestamp="1588934488206">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state x="53" y="23" width="1139" height="877" key="SettingsEditor/53.23.1387.877@53.23.1387.877" timestamp="1588272384829" />
-    <state x="684" y="96" width="756" height="665" key="StructurePopup" timestamp="1588775607431">
+    <state x="53" y="23" width="1139" height="877" key="SettingsEditor/53.23.1387.877@53.23.1387.877" timestamp="1588934488206" />
+    <state x="684" y="96" width="756" height="665" key="StructurePopup" timestamp="1588945971045">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
-    <state x="684" y="96" width="756" height="665" key="StructurePopup/53.23.1387.877@53.23.1387.877" timestamp="1588775607431" />
+    <state x="684" y="96" width="756" height="665" key="StructurePopup/53.23.1387.877@53.23.1387.877" timestamp="1588945971045" />
+    <state x="246" y="133" key="Vcs.Push.Dialog.v2" timestamp="1588925585392">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="246" y="133" key="Vcs.Push.Dialog.v2/53.23.1387.877@53.23.1387.877" timestamp="1588925585392" />
     <state x="364" y="23" width="960" height="877" key="find.popup" timestamp="1588749547221">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
@@ -190,11 +285,11 @@
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state width="750" height="540" key="javadoc.popup/53.23.1387.877@53.23.1387.877" timestamp="1584433772015" />
-    <state x="327" y="23" width="838" height="877" key="search.everywhere.popup" timestamp="1588867484132">
+    <state x="327" y="23" width="838" height="877" key="search.everywhere.popup" timestamp="1588950512879">
       <screen x="53" y="23" width="1387" height="877" />
     </state>
     <state x="324" y="23" width="841" height="1032" key="search.everywhere.popup/49.23.1391.877@49.23.1391.877" timestamp="1587215390188" />
-    <state x="327" y="23" width="838" height="877" key="search.everywhere.popup/53.23.1387.877@53.23.1387.877" timestamp="1588867484132" />
+    <state x="327" y="23" width="838" height="877" key="search.everywhere.popup/53.23.1387.877@53.23.1387.877" timestamp="1588950512879" />
     <state x="438" y="362" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1588745944875">
       <screen x="53" y="23" width="1387" height="877" />
     </state>

@@ -1,0 +1,22 @@
+{"level":"info","ts":1589009974.193857,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589009974.194324,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589009974.194498,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589009974.198173,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589009974.198271,"caller":"asynchronous-server/main.go:88","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1589010207.196814,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589010207.198143,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589010207.198313,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589010207.204532,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589010207.204642,"caller":"asynchronous-server/main.go:88","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1589010257.515916,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589010257.5160792,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589010257.516232,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589010257.520322,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589010257.520413,"caller":"asynchronous-server/main.go:88","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1589011279.182718,"caller":"zap/zap.go:48","msg":"[initLogger] zap plugin initializing completed"}
+{"level":"info","ts":1589011279.18289,"caller":"db/mysql.go:25","msg":"[initMysql] 初始化Mysql"}
+{"level":"info","ts":1589011279.183156,"caller":"db/mysql.go:31","msg":"mysql配置","mysqlConfig":{"url":"root:110120@(127.0.0.1:3306)/open_bank?charset=utf8&parseTime=true&loc=Asia%2FShanghai","enabled":true,"maxIdleConnection":100,"maxOpenConnection":130,"connMaxLifetime":100}}
+{"level":"info","ts":1589011279.191645,"caller":"db/mysql.go:61","msg":"[initMysql] Mysql 连接成功"}
+{"level":"info","ts":1589011279.191753,"caller":"asynchronous-server/main.go:88","msg":"[initCfg]配置","cfg":{"name":"","version":"","address":"","port":0}}
+{"level":"info","ts":1589015190.575851,"caller":"subscriber/asynchronous.go:22","msg":"异步开户信息","msg":"id:\"62270021\" name:\"test01\" pwd:\"121231\" "}
+{"level":"info","ts":1589015448.011719,"caller":"subscriber/asynchronous.go:22","msg":"异步开户信息","msg":"id:\"62270021\" name:\"test01\" pwd:\"121231\" "}

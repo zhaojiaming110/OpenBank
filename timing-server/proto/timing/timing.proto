@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package micro.open.bank.service.timing;
+
+service Timing {
+	rpc CheckAccounts(Request) returns (Response) {}
+}
+
+message Request {
+	string data = 1;
+}
+
+message Response {
+	string result = 1;
+}
+
