@@ -2,88 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43ea0925-bff5-42ec-91ee-694e39a9530d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-srv/plugin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-web/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronous-server/proto/asynchronous/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/common/nsq.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/breaker/http/http.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/db/db.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/db/mysql.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/redis/redis.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timing-server/model/model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timing-server/model/timing/timing.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timing-server/proto/timing/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application-db.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application-etcd.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application-mq.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application-redis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/conf/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/handler/account.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/handler/account.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/model/account/account.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/model/account/account.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/model/account/account_get.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/model/account/account_get.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/model/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/model/model.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/plugin.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/proto/account/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/proto/account/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/proto/account/account.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/proto/account/account.pb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/proto/account/account.pb.micro.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/proto/account/account.pb.micro.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-srv/proto/account/account.proto" beforeDir="false" afterPath="$PROJECT_DIR$/account-srv/proto/account/account.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/basic/basic.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/basic/config/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/basic/config/etcd.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/basic/config/profiles.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/profiles.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/conf/application-etcd.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/conf/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/handler/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/handler/handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/account-web/plugin.go" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/plugin.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/basic.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/basic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/config/etcd.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/etcd.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/config/mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/mysql.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/config/nsq.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/nsq.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/config/profiles.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/config/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/config/redis.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/db/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/db/db.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/db/mysql.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/db/mysql.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic-local/redis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic-local/redis/redis.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic/basic.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic/common/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/common/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic/common/const.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/common/const.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic/common/etcd.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/common/etcd.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/basic/config/options.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/config/options.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/config-grpc-srv/conf/micro.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-grpc-srv/conf/micro.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/config-grpc-srv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/config-grpc-srv/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/docs/user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/docs/user.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/test/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/test/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/test/html/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account/test/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nsqtest/nsq.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nsqtest/proto/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nsqtest/proto/nsq.pb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nsqtest/proto/nsq.pb.micro.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nsqtest/proto/nsq.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis-test/string.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcptest/11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcptest/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcptest/tcptest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/trace.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-grpc-srv/conf/micro.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-srv/conf/micro.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-grpc-srv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/config-srv/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

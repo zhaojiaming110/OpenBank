@@ -39,7 +39,7 @@
 - asynchronous-server 异步微服务 通过nsq消息队列实现
 - timing-server 定时任务微服务， 通过外界调用http
 - basic 基础配置
-- config-grpc-srv  grpc注册中心
+- config-srv  grpc注册中心
 - micro micro api网关
 - plugins 插件
 
